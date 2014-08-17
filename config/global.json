@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "Good Thing Map": {
+            "applicationId": "vRgutJGNaqr9sgjrCp5z6ltoyOr47QOqkiwQD9q2", 
+            "masterKey": "iQtGgksZm6LnWcdKv39VqDAmnTDdQrH6FUEBTLcI"
+        }, 
+        "_default": {
+            "link": "Good Thing Map"
+        }
+    }, 
+    "global": {
+        "parseVersion": "1.2.19"
+    }
+}
